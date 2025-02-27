@@ -1,0 +1,8 @@
+C:/unity_projects/2d_mobile_web/.utmp/RelWithDebInfo/4ks6r265/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/unity_projects/2d_mobile_web/.utmp/RelWithDebInfo/4ks6r265/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/unity_projects/2d_mobile_web/.utmp/RelWithDebInfo/4ks6r265/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/unity_projects/2d_mobile_web/.utmp/RelWithDebInfo/4ks6r265/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/unity_projects/2d_mobile_web/.utmp/RelWithDebInfo/4ks6r265/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/unity_projects/2d_mobile_web/.utmp/RelWithDebInfo/4ks6r265/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/unity_projects/2d_mobile_web/.utmp/RelWithDebInfo/4ks6r265/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/unity_projects/2d_mobile_web/.utmp/RelWithDebInfo/4ks6r265/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
