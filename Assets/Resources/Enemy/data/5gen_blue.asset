@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e1adc5701c4bd44e98129f7a0aecd25, type: 3}
+  m_Name: 5gen_blue
+  m_EditorClassIdentifier: 
+  color_data: {fileID: 11400000, guid: 8517f23516b245f45a1a92fc41703b8a, type: 2}
+  shape_data: {fileID: 11400000, guid: 8a834cad0a21e7b499182cff8b28591e, type: 2}
+  player_type: 1
+  sprite: {fileID: -360153140634374131, guid: e422e99f5a83d7b489c55329164acdfc, type: 3}

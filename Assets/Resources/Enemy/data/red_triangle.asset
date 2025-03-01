@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e1adc5701c4bd44e98129f7a0aecd25, type: 3}
+  m_Name: red_triangle
+  m_EditorClassIdentifier: 
+  color_data: {fileID: 11400000, guid: 5cf7b2906571f6247b598fc758cd6556, type: 2}
+  shape_data: {fileID: 11400000, guid: 1de000a12110fb041944a607e9d9f407, type: 2}
+  player_type: 1
+  sprite: {fileID: -6158620203333771963, guid: 4c3bf50117da28644a806b83c9d77019, type: 3}
